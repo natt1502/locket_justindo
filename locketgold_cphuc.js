@@ -56,7 +56,7 @@ if (ua.includes("Locket")) {
             feature_set: [
                 {
                     title: "Kênh Tiktok @iamphuc_✨",
-                    body: “Welcome home, Sir. It is wonderful to have you back 👑”,
+                    body: "Welcome home, Sir. It is wonderful to have you back 👑",
                     imageURL: "https://cdn.upanhlaylink.com/i/8SsJqMlp.png"
                 }
             ],
