@@ -52,11 +52,11 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Lên Locket Gold rồi đó nha 🇻🇳",
+            title: "Locket Gold for Cao Phúc 🇻🇳",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @iamphuc_✨",
-                    body: "Một follow của bạn, là một niềm vui của mình 💛",
+                    title: "Kênh Tiktok @iamphuc_✨",
+                    body: “Welcome home, Sir. It is wonderful to have you back 👑”,
                     imageURL: "https://cdn.upanhlaylink.com/i/8SsJqMlp.png"
                 }
             ],
