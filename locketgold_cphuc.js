@@ -57,7 +57,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Kênh Tiktok @iamphuc_✨",
                     body: "Welcome home, Sir. It is wonderful to have you back 👑",
-                    imageURL: "https://cdn.upanhlaylink.com/i/njBrDOmq.jpeg"
+                    imageURL: "https://cdn.upanhlaylink.com/i/QdlGQmUN.jpeg"
                 }
             ],
             primary_button_title: "Xong",
