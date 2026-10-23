@@ -55,7 +55,7 @@ if (ua.includes("Locket")) {
             title: "Locket Gold for Cao Phúc 🇻🇳",
             feature_set: [
                 {
-                    title: "Kênh Tiktok @iamphuc_✨",
+                    title: "Kênh Tiktok @iamcphuc_✨",
                     body: "Welcome home, Sir. It is wonderful to have you back 👑",
                     imageURL: "https://cdn.upanhlaylink.com/i/QdlGQmUN.jpeg"
                 }
