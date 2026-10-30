@@ -2,12 +2,10 @@
 #!name=All In One (Cao Phúc)
 #!desc=Được tổng hợp và tùy chỉnh bởi Cao Phúc
 #!author=natt1502
-#!homepage=https://module-ios.netlify.app
-#!tgchannel=https://t.me/tienich
 #!moduleUrl=https://raw.githubusercontent.com/natt1502/locket_justindo/refs/heads/main/cphuc1502.sgmodule
 #!icon=https://module-ios.netlify.app/assets/img/shadowrocket.webp
 #!howtouse=Shadowrocket
-#Shadowrocket Configuration - All IN ONE
+#Shadowrocket Configuration -A Justin Do
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
