@@ -111,8 +111,8 @@ if (ua.includes("Locket")) {
             telephoto: true,
             srgb: true,
             lanczos: true,
-            quality_mbps: 0.6,
-            qualityMbps: 0.6
+            quality_mbps: 0.9,
+            qualityMbps: 0.9
         }),
         camera_roll: JSON.stringify({
             gold_max_duration: 10.0,
